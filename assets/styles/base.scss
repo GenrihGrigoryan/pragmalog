@@ -19,8 +19,9 @@ html {
 }
 
 .singlePage {
-  max-width: 760px;
+  max-width: 732px;
   padding: 1em;
+  margin: auto;
   //padding: 4em 24vw;
   //@media all and (max-width: 800px) {
   //  padding: 25px 5vw;
@@ -215,6 +216,7 @@ article {
   list-style: none;
   padding-left: 0;
   margin-bottom: 0em;
+  font-size: 0.75em;
 
   & .meta {
     margin: 1.5em 0;

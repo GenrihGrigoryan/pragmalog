@@ -253,6 +253,7 @@ sup > a {
 
 #page-title {
   margin: 0;
+  font-size: 1.2rem;
   & > a {
     font-family: var(--font-header);
   }
@@ -504,7 +505,7 @@ header {
 }
 
 .section-li {
-  //margin-bottom: 1em;
+  margin-bottom: 1em;
 
   & > .section {
     display: flex;
